@@ -1,0 +1,5 @@
+all:
+prod:
+ hosts: 
+  client:
+   ansible_host: 10.0.234.5
